@@ -13,7 +13,7 @@ Headings containing a forward slash (`/`) should surround it with spaces (like /
 
 The "references" section should be a level 2 element at the bottom of the page. It should be titled "References", and there should be a 
 
-For more information about where to place this section, see [page layout](<https://github.com/thatgaypigeon/standards/wiki/Page layout>).
+For more information about where to place this section, see [page layout](https://github.com/thatgaypigeon/standards/wiki/Page-layout).
 
 
 
