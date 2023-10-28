@@ -15,8 +15,6 @@ The "references" section should be a level 2 element at the bottom of the page. 
 
 For more information about where to place this section, see [page layout](https://github.com/thatgaypigeon/standards/wiki/Page-layout).
 
-
-
 ## Using sources
 When using information from a source where an inline footnote is not appropriate (such as images/diagrams, lists, tables, etc.)
 
